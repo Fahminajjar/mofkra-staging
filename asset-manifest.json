@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7c00372.chunk.css",
+    "main.js": "/static/js/main.67ebc10f.chunk.js",
+    "main.js.map": "/static/js/main.67ebc10f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc70d6df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc70d6df.js.map",
+    "static/css/2.eabcd0b3.chunk.css": "/static/css/2.eabcd0b3.chunk.css",
+    "static/js/2.55e2e2c9.chunk.js": "/static/js/2.55e2e2c9.chunk.js",
+    "static/js/2.55e2e2c9.chunk.js.map": "/static/js/2.55e2e2c9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dbc63dd5d05a284a4f549d2c6ea2cba8.js": "/precache-manifest.dbc63dd5d05a284a4f549d2c6ea2cba8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eabcd0b3.chunk.css.map": "/static/css/2.eabcd0b3.chunk.css.map",
+    "static/css/main.d7c00372.chunk.css.map": "/static/css/main.d7c00372.chunk.css.map",
+    "static/js/2.55e2e2c9.chunk.js.LICENSE.txt": "/static/js/2.55e2e2c9.chunk.js.LICENSE.txt",
+    "static/media/how-img.png": "/static/media/how-img.7c1a3c16.png",
+    "static/media/icon-class.png": "/static/media/icon-class.e891fabc.png",
+    "static/media/icon-students.png": "/static/media/icon-students.03ea5fe4.png",
+    "static/media/icon-task.png": "/static/media/icon-task.3c3bf549.png",
+    "static/media/logo.png": "/static/media/logo.e0945229.png",
+    "static/media/student-img.png": "/static/media/student-img.966c878a.png",
+    "static/media/teacher-img.png": "/static/media/teacher-img.98e9abcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc70d6df.js",
+    "static/css/2.eabcd0b3.chunk.css",
+    "static/js/2.55e2e2c9.chunk.js",
+    "static/css/main.d7c00372.chunk.css",
+    "static/js/main.67ebc10f.chunk.js"
+  ]
+}
