@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mofkra-staging/static/css/main.d7c00372.chunk.css",
-    "main.js": "/mofkra-staging/static/js/main.388e8637.chunk.js",
-    "main.js.map": "/mofkra-staging/static/js/main.388e8637.chunk.js.map",
+    "main.css": "/mofkra-staging/static/css/main.5201dc84.chunk.css",
+    "main.js": "/mofkra-staging/static/js/main.3e2eb63a.chunk.js",
+    "main.js.map": "/mofkra-staging/static/js/main.3e2eb63a.chunk.js.map",
     "runtime-main.js": "/mofkra-staging/static/js/runtime-main.39d98c9c.js",
     "runtime-main.js.map": "/mofkra-staging/static/js/runtime-main.39d98c9c.js.map",
     "static/css/2.eabcd0b3.chunk.css": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css",
-    "static/js/2.0bc19ffc.chunk.js": "/mofkra-staging/static/js/2.0bc19ffc.chunk.js",
-    "static/js/2.0bc19ffc.chunk.js.map": "/mofkra-staging/static/js/2.0bc19ffc.chunk.js.map",
+    "static/js/2.b91f12e9.chunk.js": "/mofkra-staging/static/js/2.b91f12e9.chunk.js",
+    "static/js/2.b91f12e9.chunk.js.map": "/mofkra-staging/static/js/2.b91f12e9.chunk.js.map",
     "index.html": "/mofkra-staging/index.html",
-    "precache-manifest.25fc23e22d5953840c5c722d0df37c5b.js": "/mofkra-staging/precache-manifest.25fc23e22d5953840c5c722d0df37c5b.js",
+    "precache-manifest.d3b6d505c1feb897ecfa54e33b2ca137.js": "/mofkra-staging/precache-manifest.d3b6d505c1feb897ecfa54e33b2ca137.js",
     "service-worker.js": "/mofkra-staging/service-worker.js",
     "static/css/2.eabcd0b3.chunk.css.map": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css.map",
-    "static/css/main.d7c00372.chunk.css.map": "/mofkra-staging/static/css/main.d7c00372.chunk.css.map",
-    "static/js/2.0bc19ffc.chunk.js.LICENSE.txt": "/mofkra-staging/static/js/2.0bc19ffc.chunk.js.LICENSE.txt",
+    "static/css/main.5201dc84.chunk.css.map": "/mofkra-staging/static/css/main.5201dc84.chunk.css.map",
+    "static/js/2.b91f12e9.chunk.js.LICENSE.txt": "/mofkra-staging/static/js/2.b91f12e9.chunk.js.LICENSE.txt",
     "static/media/how-img.png": "/mofkra-staging/static/media/how-img.7c1a3c16.png",
     "static/media/icon-class.png": "/mofkra-staging/static/media/icon-class.e891fabc.png",
     "static/media/icon-students.png": "/mofkra-staging/static/media/icon-students.03ea5fe4.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.39d98c9c.js",
     "static/css/2.eabcd0b3.chunk.css",
-    "static/js/2.0bc19ffc.chunk.js",
-    "static/css/main.d7c00372.chunk.css",
-    "static/js/main.388e8637.chunk.js"
+    "static/js/2.b91f12e9.chunk.js",
+    "static/css/main.5201dc84.chunk.css",
+    "static/js/main.3e2eb63a.chunk.js"
   ]
 }
