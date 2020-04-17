@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mofkra-staging/precache-manifest.d3b6d505c1feb897ecfa54e33b2ca137.js"
+  "/mofkra-staging/precache-manifest.a5532b641b7f02fc1d5aa26759d12cdc.js"
 );
 
 self.addEventListener('message', (event) => {

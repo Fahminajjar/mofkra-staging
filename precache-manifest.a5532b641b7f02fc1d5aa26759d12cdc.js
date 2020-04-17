@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6162fd3510dad9d819a46035bc743a67",
+    "revision": "fe7b3bfdc38a117df776515258bb0317",
     "url": "/mofkra-staging/index.html"
   },
   {
-    "revision": "58f15b1f330c061cb0db",
+    "revision": "5a6e50494130d0ab016e",
     "url": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css"
   },
   {
-    "revision": "742e3528cce1476a38c2",
+    "revision": "134ae131ee8e44344baa",
     "url": "/mofkra-staging/static/css/main.5201dc84.chunk.css"
   },
   {
-    "revision": "58f15b1f330c061cb0db",
-    "url": "/mofkra-staging/static/js/2.b91f12e9.chunk.js"
+    "revision": "5a6e50494130d0ab016e",
+    "url": "/mofkra-staging/static/js/2.03de90b6.chunk.js"
   },
   {
     "revision": "2fe0dd338a7862364abe1a5522f0a09d",
-    "url": "/mofkra-staging/static/js/2.b91f12e9.chunk.js.LICENSE.txt"
+    "url": "/mofkra-staging/static/js/2.03de90b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "742e3528cce1476a38c2",
-    "url": "/mofkra-staging/static/js/main.3e2eb63a.chunk.js"
+    "revision": "134ae131ee8e44344baa",
+    "url": "/mofkra-staging/static/js/main.ebd59b3c.chunk.js"
   },
   {
     "revision": "d13dcad6224d8a6d9d1f",
