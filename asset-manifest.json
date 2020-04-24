@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mofkra-staging/static/css/main.247ed4ca.chunk.css",
-    "main.js": "/mofkra-staging/static/js/main.3db2d0ee.chunk.js",
-    "main.js.map": "/mofkra-staging/static/js/main.3db2d0ee.chunk.js.map",
+    "main.css": "/mofkra-staging/static/css/main.144a2642.chunk.css",
+    "main.js": "/mofkra-staging/static/js/main.9586d974.chunk.js",
+    "main.js.map": "/mofkra-staging/static/js/main.9586d974.chunk.js.map",
     "runtime-main.js": "/mofkra-staging/static/js/runtime-main.39d98c9c.js",
     "runtime-main.js.map": "/mofkra-staging/static/js/runtime-main.39d98c9c.js.map",
     "static/css/2.eabcd0b3.chunk.css": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css",
-    "static/js/2.97aee671.chunk.js": "/mofkra-staging/static/js/2.97aee671.chunk.js",
-    "static/js/2.97aee671.chunk.js.map": "/mofkra-staging/static/js/2.97aee671.chunk.js.map",
+    "static/js/2.7a6c9ef4.chunk.js": "/mofkra-staging/static/js/2.7a6c9ef4.chunk.js",
+    "static/js/2.7a6c9ef4.chunk.js.map": "/mofkra-staging/static/js/2.7a6c9ef4.chunk.js.map",
     "index.html": "/mofkra-staging/index.html",
-    "precache-manifest.257890e9d581c2796fe301ba266b31dd.js": "/mofkra-staging/precache-manifest.257890e9d581c2796fe301ba266b31dd.js",
+    "precache-manifest.2af11eaccdc9cf6c81ca8ee657c23214.js": "/mofkra-staging/precache-manifest.2af11eaccdc9cf6c81ca8ee657c23214.js",
     "service-worker.js": "/mofkra-staging/service-worker.js",
     "static/css/2.eabcd0b3.chunk.css.map": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css.map",
-    "static/css/main.247ed4ca.chunk.css.map": "/mofkra-staging/static/css/main.247ed4ca.chunk.css.map",
-    "static/js/2.97aee671.chunk.js.LICENSE.txt": "/mofkra-staging/static/js/2.97aee671.chunk.js.LICENSE.txt",
+    "static/css/main.144a2642.chunk.css.map": "/mofkra-staging/static/css/main.144a2642.chunk.css.map",
+    "static/js/2.7a6c9ef4.chunk.js.LICENSE.txt": "/mofkra-staging/static/js/2.7a6c9ef4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mofkra-staging/static/media/Cairo-SemiBold.47622f2d.ttf",
     "static/media/how-img.png": "/mofkra-staging/static/media/how-img.7c1a3c16.png",
     "static/media/icon-class.png": "/mofkra-staging/static/media/icon-class.e891fabc.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.39d98c9c.js",
     "static/css/2.eabcd0b3.chunk.css",
-    "static/js/2.97aee671.chunk.js",
-    "static/css/main.247ed4ca.chunk.css",
-    "static/js/main.3db2d0ee.chunk.js"
+    "static/js/2.7a6c9ef4.chunk.js",
+    "static/css/main.144a2642.chunk.css",
+    "static/js/main.9586d974.chunk.js"
   ]
 }
