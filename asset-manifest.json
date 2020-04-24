@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mofkra-staging/static/css/main.144a2642.chunk.css",
-    "main.js": "/mofkra-staging/static/js/main.bc08b651.chunk.js",
-    "main.js.map": "/mofkra-staging/static/js/main.bc08b651.chunk.js.map",
+    "main.js": "/mofkra-staging/static/js/main.63f15211.chunk.js",
+    "main.js.map": "/mofkra-staging/static/js/main.63f15211.chunk.js.map",
     "runtime-main.js": "/mofkra-staging/static/js/runtime-main.39d98c9c.js",
     "runtime-main.js.map": "/mofkra-staging/static/js/runtime-main.39d98c9c.js.map",
     "static/css/2.eabcd0b3.chunk.css": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css",
     "static/js/2.7a6c9ef4.chunk.js": "/mofkra-staging/static/js/2.7a6c9ef4.chunk.js",
     "static/js/2.7a6c9ef4.chunk.js.map": "/mofkra-staging/static/js/2.7a6c9ef4.chunk.js.map",
     "index.html": "/mofkra-staging/index.html",
-    "precache-manifest.f39e79608a8b929eba16a40c9aad7e5a.js": "/mofkra-staging/precache-manifest.f39e79608a8b929eba16a40c9aad7e5a.js",
+    "precache-manifest.55e7079c79b6205df5f1d0ae12638e95.js": "/mofkra-staging/precache-manifest.55e7079c79b6205df5f1d0ae12638e95.js",
     "service-worker.js": "/mofkra-staging/service-worker.js",
     "static/css/2.eabcd0b3.chunk.css.map": "/mofkra-staging/static/css/2.eabcd0b3.chunk.css.map",
     "static/css/main.144a2642.chunk.css.map": "/mofkra-staging/static/css/main.144a2642.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.eabcd0b3.chunk.css",
     "static/js/2.7a6c9ef4.chunk.js",
     "static/css/main.144a2642.chunk.css",
-    "static/js/main.bc08b651.chunk.js"
+    "static/js/main.63f15211.chunk.js"
   ]
 }
